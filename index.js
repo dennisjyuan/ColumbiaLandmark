@@ -1,8 +1,7 @@
-CLASSES = {
+LASSES = {
   0: 'alma',
   1: 'butler',
   2: 'lion',
-
 };
 
 const MODEL_PATH =
